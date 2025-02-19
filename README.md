@@ -1,2 +1,2 @@
 # WheatherApp
- A wheather application using a API
+ A wheather application using an API
